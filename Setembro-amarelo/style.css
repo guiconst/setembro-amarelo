@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Elowen';
+    src: url('fonts/Elowen.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1{
+    font-family: 'Elowen', sans-serif;
+    text-align: center;
+    color: #af6e31;
+}
+
+body {
+    background-color: #fef8cd;
+    margin: 0;
+}
+
+.logo{
+    width: 100%;
+    zoom: 1.2;
+}
+div{
+    background-color: white;
+    width: 80%;
+    padding: 2%;
+    margin: 0 auto;
+    border-radius: 15px;
+    border: 2px solid #fdd79f;
+}
