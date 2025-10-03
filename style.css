@@ -63,3 +63,8 @@ div{
     max-width: 100%;
     margin-bottom: 15px;
 }
+
+.vazio{
+    background-color: #FEF8CD;
+    border: #FEF8CD;
+}
