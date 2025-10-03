@@ -68,3 +68,43 @@ div{
     background-color: #FEF8CD;
     border: #FEF8CD;
 }
+
+.gira-float {
+    position: absolute;
+    top: 147% fixed;
+    right: 1%;
+    width: 10%;
+    height: auto;
+    z-index: 0;
+}
+
+.girassol {
+    position: absolute;
+    top: 140% fixed;
+    right: 3%;
+    width: 10%;
+    height: auto;
+    z-index: 0;
+}
+
+.giras {
+    position: absolute;
+    top: 197%;
+    left: 1%;
+    width: 11%;
+    z-index: 0;
+}
+
+.girassol-campanha {
+    position: absolute;
+    top: 2870px;
+    right: 6%;
+    width: 12%;
+    height: 370px;
+}
+
+#div-menor{
+    width: 70%;
+    margin: unset;
+    margin-left: 8%;
+}
